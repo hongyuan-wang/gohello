@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import "github.com/yuanwhy/goutil"
 
 func main() {
-	fmt.Printf("Hello, world.\n")
+
+	str := "hello go"
+	goutil.PrintStrEle(str)
 }
