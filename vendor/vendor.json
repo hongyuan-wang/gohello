@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "sjBORnv5VvtOCStBqVkjkjAd0rs=",
+			"path": "github.com/yuanwhy/goutil",
+			"revision": "248ea5d8a0a271736bd5b9d2d923d7a1c38c3768",
+			"revisionTime": "2017-08-02T15:11:36Z"
+		}
+	],
+	"rootPath": "github.com/yuanwhy/gohello"
+}
